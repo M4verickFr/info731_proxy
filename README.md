@@ -40,3 +40,10 @@ node clientProxy.js
 ```
 
 Then config your browser to use http://localhost:8080 as Proxy Server. I personally use **SwitchyOmega** extension on Chrome.
+
+
+## 💪 Authors of this project
+
+* **PERROLLAZ Maverick** _alias_ [@M4verickFr](https://github.com/M4verickFr)
+* **CAULLIREAU Dorian** _alias_ [@caullird](https://github.com/caullird)
+* **MASSIT Clément** _alias_ [@clement-massit](https://github.com/clement-massit)
